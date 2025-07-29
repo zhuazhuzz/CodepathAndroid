@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hello Squirrel</string>
+
+    <string name="first_name">ZHIHUA</string>
+    <string name="last_name">ZHU</string>
+    <string name="full_name">%s %s</string>
+
+    <string name="profile_bio_text">Hello! You can call me Z. I am from\nBoston, MA. I study CS and am heavily\ninterested in web and mobile design.\nI love to meet a lot of new people,\nbut when I need to recharge, I partake\nin hiking as well as my hobbies\nlisted below!</string>
+
+    <string name="profile_hobby_header_text">
+        Greatest Hobbies of All Time:</string>
+    <string name="profile_hobby_first_text">🥇 Cooking for friends and family</string>
+    <string name="profile_hobby_second_text">🥈 Gardening with my Mom</string>
+    <string name="profile_hobby_third_text">🥉 Drawing</string>
+</resources>
